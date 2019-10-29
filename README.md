@@ -22,7 +22,9 @@ Root Url for all archived filings : https://www.sec.gov/cgi-bin/browse-edgar?act
 Note: Only uses python to extract the data. Feel free to add selenium to see the process automate right in front of your eyes.
 
 <h3>Your output</h3>
+
 Macy's, Inc. 
+
 2018
 3,601,848
 
